@@ -2,24 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-25T22:48:03 PDT" name="Default suite" finished-at="2022-09-25T22:48:20 PDT" duration-ms="17046">
+  <suite started-at="2022-10-19T14:02:56 PDT" name="Default suite" finished-at="2022-10-19T14:03:31 PDT" duration-ms="34608">
     <groups>
     </groups>
-    <test started-at="2022-09-25T22:48:03 PDT" name="Default test" finished-at="2022-09-25T22:48:20 PDT" duration-ms="17046">
-      <class name="seleniumbasics.ScreenShotCapturing">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:seleniumbasics.ScreenShotCapturing@a1153bc]" started-at="2022-09-25T22:48:03 PDT" name="setUp" finished-at="2022-09-25T22:48:19 PDT" duration-ms="15867" status="PASS">
+    <test started-at="2022-10-19T14:02:56 PDT" name="Default test" finished-at="2022-10-19T14:03:31 PDT" duration-ms="34608">
+      <class name="seleniumbasics.DownloadingFileChrome">
+        <test-method signature="downloading()[pri:0, instance:seleniumbasics.DownloadingFileChrome@4efbca5a]" started-at="2022-10-19T14:02:57 PDT" name="downloading" finished-at="2022-10-19T14:03:31 PDT" duration-ms="34467" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="test()[pri:0, instance:seleniumbasics.ScreenShotCapturing@a1153bc]" started-at="2022-09-25T22:48:19 PDT" name="test" finished-at="2022-09-25T22:48:19 PDT" duration-ms="313" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:seleniumbasics.ScreenShotCapturing@a1153bc]" started-at="2022-09-25T22:48:19 PDT" name="tearDown" finished-at="2022-09-25T22:48:20 PDT" duration-ms="644" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- seleniumbasics.ScreenShotCapturing -->
+        </test-method> <!-- downloading -->
+      </class> <!-- seleniumbasics.DownloadingFileChrome -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
